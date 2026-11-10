@@ -7,8 +7,8 @@ from urllib.parse import urljoin, urlparse
 LOGIN_URL = "https://www.arcadepunks.com/login"
 START_URL = "https://www.arcadepunks.com/" # The crawler will start here
 DOMAIN = "www.arcadepunks.com"             # Keeps the crawler from wandering to other websites
-USERNAME = "robforpm"
-PASSWORD = "5Co9kzRKui!9lWl%"
+USERNAME = "USERNAME"
+PASSWORD = "PASSWORD"
 
 def scan_entire_site():
     session = requests.Session()
