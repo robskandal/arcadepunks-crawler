@@ -18,5 +18,5 @@ A Python-based web scraper and crawler designed to systematically scan `arcadepu
 
 1. **Clone the repository** (or download the files):
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/arcadepunks-crawler.git](https://github.com/YOUR_USERNAME/arcadepunks-crawler.git)
+   git clone [https://github.com/robskandal/arcadepunks-crawler.git](https://github.com/YOUR_USERNAME/arcadepunks-crawler.git)
    cd arcadepunks-crawler
